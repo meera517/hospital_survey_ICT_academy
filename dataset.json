@@ -1,0 +1,22 @@
+[
+    {
+        "name": "That Hospital",
+        "patientCount": "500",
+        "location": "junction 1"
+    },
+    {
+        "name": "This Hospital",
+        "patientCount": "700",
+        "location": "junction 2"
+    },
+    {
+        "name": "My hospital",
+        "patientCount": "800",
+        "location": "junction 3"
+    },
+    {
+        "name": "Your Hospital",
+        "patientCount": "1000",
+        "location": "junction 4"
+    }
+]
